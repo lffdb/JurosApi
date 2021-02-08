@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Taxa.Juros.Api</name>
+    </assembly>
+    <members>
+        <member name="T:DesafioApi1.Application.Controllers.DesafioController">
+            <summary>
+            API 1
+            </summary>
+        </member>
+        <member name="M:DesafioApi1.Application.Controllers.DesafioController.TaxaJuros">
+            <summary>
+            Taxa de juros
+            </summary>
+            <returns></returns>        
+        </member>
+        <member name="M:DesafioApi1.Application.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            This method gets called by the runtime. Use this method to add services to the container. 
+        </member>
+    </members>
+</doc>

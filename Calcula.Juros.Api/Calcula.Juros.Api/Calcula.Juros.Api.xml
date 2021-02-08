@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Calcula.Juros.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Desafio2.Controllers.DesafioController">
+            <summary>
+            API 2
+            </summary>
+        </member>
+        <member name="M:Desafio2.Controllers.DesafioController.CalcularJurosAsync(System.Decimal,System.Int32)">
+            <summary>
+            Calcular Juros 
+            </summary>
+            <param name="valorInicial"></param>
+            <param name="tempo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Desafio2.Controllers.DesafioController.ShowMeTheCode">
+            <summary>
+            Exibir url dos fontes no git
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
