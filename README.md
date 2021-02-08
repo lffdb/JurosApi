@@ -21,7 +21,7 @@ Antes de começar é necessário ter instalado o Visual Studio 2019
 $ git clone <https://github.com/lffdb/Juros.Api>
 # Abra os projetos e execute-os
 $ cd /Taxa.Juros.Api/Taxa.Juros.Api.sln
-# O servidor inciará na porta:50593 - acesse <http://localhost:50593>
+# O servidor inciará na porta:50593 - acesse <http://localhost:60593>
 $ cd /Calcula.Juros.Api/Calcula.Juros.Api.sln
 # O servidor inciará na porta:52072 - acesse <http://localhost:52072>
 $ cd /Testar.APIs/Testar.APIs.sln
